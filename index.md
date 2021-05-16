@@ -5,19 +5,19 @@
 ### Category Name 1 
 
 [Project 1 Galaxy Cat](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/galaxycat.png?raw=true"/>
 
 ---
 [Project 2 Double Exposure](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/doubleexposure.jpg?raw=true"/>
 
 ---
 [Project 3 Liquid Graffitti](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/liquidgraffitti.png?raw=true"/>
 
 ---
 [Project 4 Ripped Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rippedeffect.jpg?raw=true"/>
 
 ### Category Name 2
 
